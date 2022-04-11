@@ -24,3 +24,7 @@ Login/Logout React
 
 ## key ----> [API_KEY]
 ![Captura](https://user-images.githubusercontent.com/7141537/162518125-61c2389b-5c9f-434e-bfe6-224ea0aa867e.PNG)
+
+## Uso de LocalStorage control: login-logout
+![Captura](https://user-images.githubusercontent.com/7141537/162803432-1fcc23f5-66c7-4ef0-b815-0d0cf8a343a1.PNG)
+![Captura](https://user-images.githubusercontent.com/7141537/162803274-bc0a0b34-37f7-4bd5-a8ac-5573dd2b4d4f.PNG)
